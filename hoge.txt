@@ -1,8 +1,5 @@
 name??
-
 A
-
-C
 B
-
-
+C
+My name is A
