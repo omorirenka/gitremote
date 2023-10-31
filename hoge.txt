@@ -2,4 +2,5 @@ name??
 A
 B
 C
-my name is BBB
+my name is B
+My name is A
