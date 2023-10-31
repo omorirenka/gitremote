@@ -3,5 +3,6 @@ A
 B
 C
 
-my name is C
-My name is A
+my name is A
+my name is B
+My name is C
